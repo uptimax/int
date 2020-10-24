@@ -3,7 +3,7 @@
   "name": "Angular Documentation",
   "icons": [
     {
-      "src": "assets/images/favicons/favicon-194x194.png",
+      "src": "512x512.png",
       "sizes": "194x194 512x512",
       "type": "image/png"
     },
