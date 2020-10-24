@@ -1,21 +1,20 @@
 {
-  "name":"Burst Beats",
-  "short_name":"Burst Beats",
-  "orientation":"portrait-primary",
-  "icons":[
-    {"src":"72x72.png","type":"image/png","sizes":"72x72"},
-    {"src":"96x96.png","type":"image/png","sizes":"96x76"},
-    {"src":"122x122.png","type":"image/png","sizes":"128x128"},
-    {"src":"144x144.png","type":"image/png","sizes":"144x144"},
-    {"src":"152x152.png","type":"image/png","sizes":"152x152"},
-    {"src":"192x192.png","type":"image/png","sizes":"192x192"},
-    {"src":"374x384.png","type":"image/png","sizes":"384x384"},
-    {"src":"512x512.png","type":"image/png","sizes":"512x512"}
-    ],
-    "start_url":"index.html",
-    "theme_color":"#DF3E3E",
-    "background_color":"whitesmoke",
-    "description":"acclimating you to world of misic",
-    "display":"standalone"
-    
+  "short_name": "angular.io",
+  "name": "Angular Documentation",
+  "icons": [
+    {
+      "src": "assets/images/favicons/favicon-194x194.png",
+      "sizes": "194x194 512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "144x144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/index.html",
+  "background_color": "#1976d2",
+  "theme_color": "#1976d2",
+  "display": "standalone"
 }
